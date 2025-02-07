@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1730462881 source:d:\iti\c lab\self-study\class and struct\main.cpp
+	<iostream>
+	<string.h>
+
